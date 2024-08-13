@@ -47,9 +47,14 @@ GenerativeModel model(ModelRef ref) {
     }),
   );
 
+  const geminiKey = String.fromEnvironment('GEMINI_KEY');
+  if (geminiKey.isEmpty) {
+    throw AssertionError('GEMINI_KEY is not set');
+  }
+
   return GenerativeModel(
     model: 'gemini-1.5-flash',
-    apiKey: 'AIzaSyCgkU-il5PeU32gd4p6B4YxDy1tWJkq99o',
+    apiKey: geminiKey,
     systemInstruction: Content.system(
         """You are a snack shop attendant and you are restricted to talk only about snacks and drink on the Menu. Do not talk about anything but ordering snack and drinks for the customer, ever.
 Your goal is to provide what user want after understanding the menu items and any modifiers the customer wants.
