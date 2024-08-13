@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "name": "Classic Popcorn",
+      "price": 2.50,
+      "ingredients": ["corn kernels", "oil", "salt"],
+      "otherNames": ["Movie Theater Popcorn"],
+      "type": "snack"
+    },
+    {
+      "name": "Cheese Nachos",
+      "price": 3.75,
+      "ingredients": ["tortilla chips", "cheese sauce", "jalapeños"],
+      "otherNames": ["Nacho Cheese Chips"],
+      "type": "snack"
+    },
+    {
+      "name": "Soft Pretzel",
+      "price": 3.00,
+      "ingredients": ["flour", "yeast", "salt", "butter"],
+      "otherNames": ["Bavarian Pretzel"],
+      "type": "snack"
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "price": 1.50,
+      "ingredients": ["flour", "sugar", "butter", "chocolate chips", "eggs"],
+      "otherNames": ["Choco Chip Cookie"],
+      "type": "snack"
+    },
+    {
+      "name": "Mixed Nuts",
+      "price": 4.00,
+      "ingredients": ["almonds", "cashews", "peanuts", "pecans"],
+      "otherNames": ["Trail Mix"],
+      "type": "snack"
+    },
+    {
+      "name": "Fruit Cup",
+      "price": 3.50,
+      "ingredients": ["strawberries", "grapes", "melon", "pineapple"],
+      "otherNames": ["Fresh Fruit Salad"],
+      "type": "snack"
+    },
+    {
+      "name": "Beef Jerky",
+      "price": 4.50,
+      "ingredients": ["beef", "salt", "spices"],
+      "otherNames": ["Dried Meat Strips"],
+      "type": "snack"
+    },
+    {
+      "name": "Potato Chips",
+      "price": 2.00,
+      "ingredients": ["potatoes", "oil", "salt"],
+      "otherNames": ["Crisps"],
+      "type": "snack"
+    },
+    {
+      "name": "Granola Bar",
+      "price": 2.25,
+      "ingredients": ["oats", "honey", "nuts", "dried fruit"],
+      "otherNames": ["Energy Bar"],
+      "type": "snack"
+    },
+    {
+      "name": "Candy Mix",
+      "price": 3.25,
+      "ingredients": ["chocolate", "gummy bears", "licorice", "hard candies"],
+      "otherNames": ["Sweet Tooth Special"],
+      "type": "snack"
+    },
+    {
+      "name": "Peanut M&M's",
+      "price": 2.75,
+      "ingredients": ["peanuts", "chocolate", "sugar", "food coloring"],
+      "otherNames": ["Chocolate Peanuts"],
+      "type": "snack"
+    },
+    {
+      "name": "Doritos",
+      "price": 2.50,
+      "ingredients": ["corn", "vegetable oil", "cheese powder", "spices"],
+      "otherNames": ["Nacho Cheese Chips"],
+      "type": "snack"
+    },
+    {
+      "name": "Twizzlers",
+      "price": 2.25,
+      "ingredients": ["corn syrup", "flour", "sugar", "flavoring"],
+      "otherNames": ["Red Licorice"],
+      "type": "snack"
+    },
+    {
+      "name": "Pringles",
+      "price": 2.75,
+      "ingredients": ["dried potatoes", "vegetable oil", "rice flour", "salt"],
+      "otherNames": ["Stackable Chips"],
+      "type": "snack"
+    },
+    {
+      "name": "Ritz Crackers",
+      "price": 2.00,
+      "ingredients": ["wheat flour", "vegetable oil", "salt", "sugar"],
+      "otherNames": ["Buttery Crackers"],
+      "type": "snack"
+    },
+    {
+      "name": "Oreos",
+      "price": 2.50,
+      "ingredients": ["flour", "sugar", "palm oil", "cocoa", "high fructose corn syrup"],
+      "otherNames": ["Chocolate Sandwich Cookies"],
+      "type": "snack"
+    },
+    {
+      "name": "Cheetos",
+      "price": 2.25,
+      "ingredients": ["corn meal", "vegetable oil", "cheese seasoning"],
+      "otherNames": ["Cheese Puffs"],
+      "type": "snack"
+    },
+    {
+      "name": "Snickers Bar",
+      "price": 1.75,
+      "ingredients": ["peanuts", "caramel", "nougat", "milk chocolate"],
+      "otherNames": ["Peanut Caramel Bar"],
+      "type": "snack"
+    },
+    {
+      "name": "Sour Patch Kids",
+      "price": 2.50,
+      "ingredients": ["sugar", "invert sugar", "corn syrup", "modified corn starch", "tartaric acid"],
+      "otherNames": ["Sour Sugar Candy"],
+      "type": "snack"
+    },
+    {
+      "name": "Skittles",
+      "price": 2.00,
+      "ingredients": ["sugar", "corn syrup", "hydrogenated palm kernel oil", "fruit juice", "citric acid"],
+      "otherNames": ["Fruit Chews"],
+      "type": "snack"
+    },
+    {
+      "name": "Coca-Cola",
+      "price": 1.75,
+      "ingredients": ["carbonated water", "high fructose corn syrup", "caramel color", "phosphoric acid", "caffeine"],
+      "otherNames": ["Coke"],
+      "type": "drink"
+    },
+    {
+      "name": "Pepsi",
+      "price": 1.75,
+      "ingredients": ["carbonated water", "high fructose corn syrup", "caramel color", "sugar", "phosphoric acid", "caffeine"],
+      "otherNames": ["Cola"],
+      "type": "drink"
+    },
+    {
+      "name": "Sprite",
+      "price": 1.75,
+      "ingredients": ["carbonated water", "high fructose corn syrup", "citric acid", "natural flavors", "sodium citrate"],
+      "otherNames": ["Lemon-Lime Soda"],
+      "type": "drink"
+    },
+    {
+      "name": "Fanta Orange",
+      "price": 1.75,
+      "ingredients": ["carbonated water", "high fructose corn syrup", "orange juice", "citric acid", "sodium benzoate"],
+      "otherNames": ["Orange Soda"],
+      "type": "drink"
+    },
+    {
+      "name": "Nestlé Pure Life Water",
+      "price": 1.50,
+      "ingredients": ["purified water", "calcium chloride", "sodium bicarbonate", "magnesium sulfate"],
+      "otherNames": ["Bottled Water"],
+      "type": "drink"
+    },
+    {
+      "name": "Arizona Iced Tea",
+      "price": 2.00,
+      "ingredients": ["water", "high fructose corn syrup", "tea", "citric acid", "natural flavors"],
+      "otherNames": ["Sweet Tea"],
+      "type": "drink"
+    },
+    {
+      "name": "Red Bull",
+      "price": 3.50,
+      "ingredients": ["carbonated water", "sucrose", "glucose", "citric acid", "taurine", "caffeine"],
+      "otherNames": ["Energy Drink"],
+      "type": "drink"
+    },
+    {
+      "name": "Gatorade",
+      "price": 2.25,
+      "ingredients": ["water", "sugar", "dextrose", "citric acid", "salt", "sodium citrate"],
+      "otherNames": ["Sports Drink"],
+      "type": "drink"
+    },
+    {
+      "name": "Snapple Peach Tea",
+      "price": 2.50,
+      "ingredients": ["water", "sugar", "citric acid", "tea", "natural flavors"],
+      "otherNames": ["Peach Iced Tea"],
+      "type": "drink"
+    },
+    {
+      "name": "Minute Maid Lemonade",
+      "price": 2.00,
+      "ingredients": ["water", "high fructose corn syrup", "lemon juice", "citric acid", "natural flavors"],
+      "otherNames": ["Lemon Drink"],
+      "type": "drink"
+    }
+  ]
+}
